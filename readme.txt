@@ -1,19 +1,19 @@
 
 TITLE: 
-Justice - 100% Fully Responsive Free HTML5 Bootstrap Template
+Justice - 100% Fully Responsive HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+DESIGNED & DEVELOPED by ANELKAS IT SOLUTIONS
 
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+Website: https://anelkasitsolutions.business.site/
+Twitter: https://anelkasitsolutions.business.site/
+Facebook: https://anelkasitsolutions.business.site/
 
 
 CREDITS:
 
 Bootstrap
-http://getbootstrap.com/
+https://anelkasitsolutions.business.site/
 
 jQuery
 http://jquery.com/
@@ -47,5 +47,5 @@ Magnific Popup
 http://dimsemenov.com/plugins/magnific-popup/
 
 Demo Images:
-http://unsplash.com
+https://anelkasitsolutions.business.site/
 
